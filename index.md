@@ -2,8 +2,6 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+Welcome to the lesson **Open Science Community of Practice**.
 
-
-[workbench]: https://carpentries.github.io/sandpaper-docs
-
+This lesson provides strategies, templates, and exercises for librarians and research staff to build open science communities. These communities foster inclusive researcher engagement, co-creation, and skill-building while advancing institutional open science goals.
