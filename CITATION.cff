@@ -1,11 +1,5 @@
-# This template CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to replace its contents
-# with information about your lesson.
-# Remember to update this file periodically, 
-# ensuring that the author list and other fields remain accurate.
-
 cff-version: 1.2.0
-title: FIXME
+title: Building an Open Science Community of Practice
 message: >-
   Please cite this lesson using the information in this file
   when you refer to it in publications, and/or if you
@@ -13,10 +7,12 @@ message: >-
   training material.
 type: dataset
 authors:
-  - given-names: FIXME
-    family-names: FIXME
+  - given-names: Camille
+    family-names: Thomas
+    orcid: https://orcid.org/0000-0002-0363-0126
 abstract: >-
-  FIXME Replace this with a short abstract describing the
-  lesson, e.g. its target audience and main intended
-  learning objectives.
-license: CC-BY-4.0
+  This lesson supports librarians and research support staff in designing and launching
+  Open Science Communities of Practice (CoPs) at their institutions. It introduces core concepts,
+  helps participants identify local needs and stakeholders, and provides guidance on taking
+  first steps toward building inclusive, peer-driven communities that foster open science practices.
+  By the end
