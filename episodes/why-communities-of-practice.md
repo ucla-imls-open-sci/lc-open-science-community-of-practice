@@ -65,9 +65,10 @@ Divide learners into small groups (or breakout rooms). Each group discusses:
 Each group shares one idea back to the full group.
 
 ::: testimonial
-> “Being part of a regular open science meetup helped me stop feeling like I had to figure it all out alone.”
-> — Library Faculty Member, UC Campus
-:::
+
+“Being part of a regular open science meetup helped me stop feeling like I had to figure it all out alone.”  — Library Faculty Member
+
+:::::
 
 :::::: keypoints
 - CoPs provide a structure for shared learning and trust-building.
