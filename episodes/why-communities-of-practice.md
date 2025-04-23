@@ -30,6 +30,7 @@ A community of practice (CoP) is a group of individuals who share a concern, set
 
 ::: callout
 💬 **Think–Pair–Share**: Have you been part of a group like this before?
+
 - What made it successful or challenging?
 - What kept people coming back?
 :::
@@ -49,6 +50,7 @@ CoPs address this by offering:
 - Community norms that make open practices feel natural
 
 ::: callout
+
 ✅ **Checkpoint**: What institutional challenges or goals related to open science exist at your institution?
 - Write down one.
 - Would a CoP help address it? Why or why not?
