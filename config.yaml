@@ -67,6 +67,7 @@ contact: 'team@carpentries.org' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - why-communities-of-practice.md
+- identify-needs-and-stakeholders.md
 
 # Information for Learners
 learners: 
