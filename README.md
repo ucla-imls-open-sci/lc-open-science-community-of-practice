@@ -9,7 +9,7 @@ Learners will explore how to organize peer-driven open science communities that 
 After completing this lesson, learners will be able to:
 
 - Identify key principles and models for open science communities of practice.
-- Strategize ways to engage researchers and support culture change on campus.
+- Strategize ways to engage researchers and promote cultural change on campus.
 - Use provided templates to plan, convene, and sustain a community of practice.
 - Implement regular outreach and training aligned with institutional goals.
 
