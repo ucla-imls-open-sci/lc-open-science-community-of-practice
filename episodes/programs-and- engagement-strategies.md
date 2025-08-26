@@ -41,28 +41,26 @@ Individually or in small groups, write down:
 Then share out with the group or on a shared board.
 
 ### Sample Programs and Topics
-- Open Meet Ups (discussions and event series)
-https://uwopenmeetup.wordpress.com/ 
-- Open Incubator (hands-on workshops program)
-https://www.lib.ncsu.edu/open-incubator 
-- Open Networks (network of open communities)
-https://openscience-utrecht.com/about-oscu/ 
+- [title] Open Meet Ups (discussions and event series)
+(https://uwopenmeetup.wordpress.com/) 
+- [title] Open Incubator (hands-on workshops program)
+(https://www.lib.ncsu.edu/open-incubator) 
+- [title] Open Networks (network of open communities)
+(https://openscience-utrecht.com/about-oscu/) 
 
 
-## Identifying Stakeholders
+## Engagement Strategies for Communities
 
-Think about who should be part of or connected to your community:
-- Faculty researchers
-- Graduate students or postdocs
-- Librarians and data support staff
-- IT staff or digital infrastructure teams
-- Campus centers (e.g., research office, ethics board, grants office)
+Rather than just focusing on typical one-off events for outreach, consider strategies for deeper engagement and building ongoing opportunities for the community to meet and learn. For example, many events for Open Access Week or Love your Data Week are one-time events once a year compared to Open Meet Ups are regular meetings over time.
+
+https://www.quorum.us/blog/examples-essential-stakeholder-engagement-strategy/ 
+
 
 ::: callout
 💬 **Think–Pair–Share**
-- Who are your likely allies?
-- Who might benefit but hasn’t been invited before?
-- Who could help advocate for your group?
+- Does your program meet the needs identified?
+- Does the team hosting the program know how to faciliate disussions or trainings?
+- How can you help community members build confidence with open science topics?
 :::
 
 ## Activity: Stakeholder Mapping
