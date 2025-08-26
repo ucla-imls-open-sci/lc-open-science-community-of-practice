@@ -14,31 +14,9 @@ exercises: 20
 :::::: objectives
 - Create program format and schedule
 - Choose a content format (e.g. discussion group, workshops, project incubator)
-
-Choose 1 asynchronous strategy to foster connection (e.g. listserv, online forum)
-Choose 1 synchronous strategy to foster connection (e.g. socials, discussion meetings)
-
+- Choose an engagement strategy
 
 ::::::
-
-## Why Start Here?
-
-Launching a successful CoP begins with understanding your local context—what’s missing, what’s already working, and who’s already doing the work. This episode helps you identify pain points and map out people and groups who can help you move forward.
-
-> Starting with known needs and existing relationships builds momentum and trust.
-
-## Create a program
-
-::: callout
-📋 **Exercise: Create a program, schedule, and topic(s)**
-Individually or in small groups, write down:
-- A periodic schedule (semester, quarter, monthly, biweekly, weekly, asynchronous)
-- Choose a location  format (in-person, virtual, hybrid)
-- Brainstorm and select 3-4 open science topics to feature in the program
-
-:::
-
-Then share out with the group or on a shared board.
 
 ### Sample Programs and Topics
 - [title] Open Meet Ups (discussions and event series)
@@ -47,7 +25,6 @@ Then share out with the group or on a shared board.
 (https://www.lib.ncsu.edu/open-incubator) 
 - [title] Open Networks (network of open communities)
 (https://openscience-utrecht.com/about-oscu/) 
-
 
 ## Engagement Strategies for Communities
 
@@ -63,6 +40,19 @@ https://www.quorum.us/blog/examples-essential-stakeholder-engagement-strategy/
 - How can you help community members build confidence with open science topics?
 :::
 
+## Create a program
+
+::: callout
+📋 **Exercise: Create a program, schedule, and topic(s)**
+Individually or in small groups, write down:
+- A periodic schedule (semester, quarter, monthly, biweekly, weekly, asynchronous)
+- Choose a location  format (in-person, virtual, hybrid)
+- Brainstorm and select 3-4 open science topics to feature in the program
+
+:::
+
+Then share out with the group or on a shared board.
+
 ## Activity: Stakeholder Mapping
 
 Use a 2x2 matrix to sort stakeholders by:
@@ -75,10 +65,9 @@ Draw this out or use a sticky note tool. Discuss:
 
 ## Planning Your Core Team
 
-Try to identify 3–4 people you could invite to help start or co-lead the CoP. Look for:
-- A mix of roles (e.g., researcher, librarian, admin)
-- People who have time or are looking for new opportunities
-- Early adopters who could bring others in
+Try to identify 1-2 strategies to foster connection and facilitate community:
+- Choose 1 asynchronous strategy to foster connection (e.g. listserv, online forum)
+- Choose 1 synchronous strategy to foster connection (e.g. socials, discussion meetings)
 
 :::::: keypoints
 - Identifying needs helps tailor your community to local goals.
