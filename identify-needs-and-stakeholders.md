@@ -42,6 +42,10 @@ Then share out with the group or on a shared board.
 
 ## Identifying Stakeholders
 
+Staekholder: Individuals, group, or organization that may affect,
+be affected, or perceive to be affected by the
+project.
+
 Think about who should be part of or connected to your community:
 - Faculty researchers
 - Graduate students or postdocs
