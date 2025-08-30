@@ -49,25 +49,30 @@ Individually or in small groups, write down:
 - Choose a location  format (in-person, virtual, hybrid)
 - Brainstorm and select 3-4 open science topics to feature in the program
 
+| Topic| Schedule| Format| Location|   Notes  |
+
+|-----------------:|----------------:|-----------------:|---------------:|:---------------|
+
+|                Open Topic|               3pm |                Virtual  |         Video Conference     |  Speaker      |
+
+|                |            |                 |             |         |
+
+
 :::
 
 Then share out with the group or on a shared board.
 
-## Activity: Stakeholder Mapping
-
-Use a 2x2 matrix to sort stakeholders by:
-- Level of interest in open science (low to high)
-- Level of influence on campus (low to high)
-
-Draw this out or use a sticky note tool. Discuss:
-- Who falls in the “high influence / high interest” quadrant?
-- Who is underrepresented but valuable to include?
-
-## Planning Your Core Team
+## Engagement Strategies
 
 Try to identify 1-2 strategies to foster connection and facilitate community:
 - Choose 1 asynchronous strategy to foster connection (e.g. listserv, online forum)
 - Choose 1 synchronous strategy to foster connection (e.g. socials, discussion meetings)
+  
+  | Program| Stakeholders| Team Members| Partners|     Notes|
+
+|-----------------:|----------------:|-----------------:|---------------:|:---------------|
+
+|                |            |                 |             |         |
 
 :::::: keypoints
 - Identifying needs helps tailor your community to local goals.
