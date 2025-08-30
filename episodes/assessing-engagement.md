@@ -61,6 +61,7 @@ Read the following articles:
 
 ::: callout
 📋 **Exercise: Create 1-3 assessments for engagment programming**
+
 Individually or in small groups, write down:
 - The assessment method(s) you selected
 - Which program or strategies you would assess
