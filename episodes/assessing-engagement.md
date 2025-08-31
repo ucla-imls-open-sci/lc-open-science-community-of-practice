@@ -82,8 +82,8 @@ Then share out with the group or on a shared board.
 
 
 :::::: keypoints
-- Identifying needs helps tailor your community to local goals.
-- Stakeholder diversity improves sustainability and reach.
-- Starting with a small, committed team can build momentum.
+- Different methods for measuring and assessing engagement may be appropriate.
+- Community research can be done before, during, and after programs to assess goals.
+- Learning from feedback and assessments can help enhance the community of practice.
 ::::::
 
