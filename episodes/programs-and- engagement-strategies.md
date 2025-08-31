@@ -75,7 +75,7 @@ Try to identify 1-2 strategies to foster connection and facilitate community:
 |                |            |                 |             |         |
 
 :::::: keypoints
-- Identifying needs helps tailor your community to local goals.
-- Stakeholder diversity improves sustainability and reach.
-- Starting with a small, committed team can build momentum.
+- Consider deeper engagement, not just outreach with regular programming.
+- Planning a specific program and audience can help foster community.
+- The format and strategy for engagment can make a difference.
 ::::::
