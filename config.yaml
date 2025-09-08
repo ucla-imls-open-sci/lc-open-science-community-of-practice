@@ -68,6 +68,7 @@ contact: 'team@carpentries.org' # FIXME
 episodes: 
 - why-communities-of-practice.md
 - identify-needs-and-stakeholders.md
+- assessing-engagement.md
 
 # Information for Learners
 learners: 
