@@ -24,7 +24,7 @@ Launching a successful CoP begins with understanding your local context—what�
 
 ## Mapping Institutional Needs
 
-::: callout
+::: challenge
 📋 **Exercise: Institutional Scan**
 Individually or in small groups, write down:
 - Three current challenges researchers face with open science at your institution
