@@ -18,64 +18,72 @@ exercises: 20
 
 ::::::
 
-### Sample Programs and Topics
-- [title] Open Meet Ups (discussions and event series)
-(https://uwopenmeetup.wordpress.com/) 
-- [title] Open Incubator (hands-on workshops program)
-(https://www.lib.ncsu.edu/open-incubator) 
-- [title] Open Networks (network of open communities)
-(https://openscience-utrecht.com/about-oscu/) 
+### Sample Programs and Topics  
 
-## Engagement Strategies for Communities
+- [Open Meet Ups](https://uwopenmeetup.wordpress.com/) — regular discussions and event series  
+- [Open Incubator](https://www.lib.ncsu.edu/open-incubator) — hands-on workshop program  
+- [Open Networks](https://openscience-utrecht.com/about-oscu/) — network of open communities  
 
-Rather than just focusing on typical one-off events for outreach, consider strategies for deeper engagement and building ongoing opportunities for the community to meet and learn. For example, many events for Open Access Week or Love your Data Week are one-time events once a year compared to Open Meet Ups are regular meetings over time.
+## Engagement Strategies for Communities  
 
-https://www.quorum.us/blog/examples-essential-stakeholder-engagement-strategy/ 
+Don’t rely only on one-off events. Focus on strategies that build lasting engagement and create regular opportunities for the community to connect and learn.  
 
+For example, many institutions run events during **Open Access Week** or **Love Your Data Week** once a year. These can raise awareness, but ongoing programs like **Open Meet Ups** give people a chance to return, build relationships, and keep learning over time.  
 
-::: callout
-💬 **Think–Pair–Share**
-- Does your program meet the needs identified?
-- Does the team hosting the program know how to faciliate disussions or trainings?
-- How can you help community members build confidence with open science topics?
-:::
+See also [examples of stakeholder engagement strategies](https://www.quorum.us/blog/examples-essential-stakeholder-engagement-strategy/).  
 
-## Create a program
+::::::::::::::::::::::::::::::::::::: challenge
 
-::: callout
-📋 **Exercise: Create a program, schedule, and topic(s)**
-Individually or in small groups, write down:
-- A periodic schedule (semester, quarter, monthly, biweekly, weekly, asynchronous)
-- Choose a location  format (in-person, virtual, hybrid)
-- Brainstorm and select 3-4 open science topics to feature in the program
+## Think–Pair–Share  
 
-| Topic| Schedule| Format| Location|   Notes  |
+- Does your program address the needs you identified?  
+- Does the hosting team know how to facilitate discussions or training?  
+- How can you help community members build confidence with open science topics?  
 
-|-----------------:|----------------:|-----------------:|---------------:|:---------------|
+::::::::::::::::::::::::::::::::::::
 
-|                Open Topic|               3pm |                Virtual  |         Video Conference     |  Speaker      |
+::::::::::::::::::::::::::::::::::::: challenge
 
-|                |            |                 |             |         |
+## Exercise: Create a Program  
 
+Individually or in small groups, design a sample program:  
 
-:::
+- Set a schedule (semester, quarter, monthly, biweekly, weekly, or asynchronous)  
+- Choose a format (in-person, virtual, or hybrid)  
+- Select three to four open science topics to feature  
 
-Then share out with the group or on a shared board.
+Use the table below to outline your program:  
 
-## Engagement Strategies
+| Topic               | Schedule | Format   | Location          | Notes      |  
+|---------------------|----------|----------|------------------|------------|  
+| Open Topic Example  | 3 pm     | Virtual  | Video Conference | Speaker    |  
+|                     |          |          |                  |            |  
 
-Try to identify 1-2 strategies to foster connection and facilitate community:
-- Choose 1 asynchronous strategy to foster connection (e.g. listserv, online forum)
-- Choose 1 synchronous strategy to foster connection (e.g. socials, discussion meetings)
-  
-  | Program| Stakeholders| Team Members| Partners|     Notes|
+::::::::::::::::::::::::::::::::::::
 
-|-----------------:|----------------:|-----------------:|---------------:|:---------------|
+Afterward, share your program with the group or post it on a shared board. 
 
-|                |            |                 |             |         |
+::::::::::::::::::::::::::::::::::::: challenge
+
+## Exercise: Engagement Strategies  
+
+Identify one or two ways to foster connection in your community:  
+
+- Pick one **asynchronous** strategy (for example, a listserv or online forum)  
+- Pick one **synchronous** strategy (for example, a social gathering or discussion meeting)  
+
+Record your ideas in the table below:  
+
+| Program Example        | Stakeholders        | Team Members     | Partners       | Notes            |  
+|------------------------|---------------------|------------------|----------------|------------------|  
+| Open Science Meet-Up   | Graduate students   | Library staff    | Research Office| Monthly check-in |  
+|                        |                     |                  |                |                  |  
+
+::::::::::::::::::::::::::::::::::::
 
 :::::: keypoints
-- Consider deeper engagement, not just outreach with regular programming.
-- Planning a specific program and audience can help foster community.
-- The format and strategy for engagment can make a difference.
+- Focus on ongoing engagement, not one-off outreach.  
+- Plan programs with a clear audience in mind.  
+- Choose formats and strategies that support connection and growth.  
 ::::::
+
