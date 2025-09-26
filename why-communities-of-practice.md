@@ -20,7 +20,9 @@ exercises: 15
 
 A community of practice (CoP) is a group of individuals who share a concern, set of problems, or interest in a topic and deepen their knowledge and expertise through regular interaction. In the context of open science, CoPs provide informal, inclusive spaces where researchers and support staff can learn together, build trust, and drive cultural change.
 
-> CoPs aren’t just training programs—they are sustained, peer-driven networks that support ongoing reflection, experimentation, and problem-solving.
+::: callout
+💡 **Key Idea:** CoPs aren’t just training programs—they are sustained, peer-driven networks that support ongoing reflection, experimentation, and problem-solving.
+:::
 
 ### Examples of CoPs in Open Science
 
@@ -28,12 +30,17 @@ A community of practice (CoP) is a group of individuals who share a concern, set
 - Online forums or channels organized around reproducibility or FAIR data
 - Interdisciplinary working groups that build open workflows together
 
-::: callout
-💬 **Think–Pair–Share**: Have you been part of a group like this before?
+::::::::::::::::::::::::::::::::::::: challenge 
 
-- What made it successful or challenging?
-- What kept people coming back?
-:::
+## Think–Pair–Share  
+
+Have you been part of a similar group before?  
+
+- What made it successful or challenging?  
+- What kept people coming back?  
+
+::::::::::::::::::::::::::::::::::::
+
 
 ## Why CoPs Matter for Open Science
 
@@ -49,22 +56,30 @@ CoPs address this by offering:
 - Opportunities for co-creation (not just top-down instruction)
 - Community norms that make open practices feel natural
 
-::: callout
+::::::::::::::::::::::::::::::::::::: challenge
 
-✅ **Checkpoint**: What institutional challenges or goals related to open science exist at your institution?
-- Write down one.
-- Would a CoP help address it? Why or why not?
-:::
+## Checkpoint  
 
-## Activity: Mapping Benefits of a CoP
+What institutional challenges or goals related to open science exist at your institution?  
 
-Divide learners into small groups (or breakout rooms). Each group discusses:
+- Write down one.  
+- Would a CoP help address it? Why or why not?  
 
-1. What problem or friction point does open science face on your campus?
-2. How might a CoP help address it?
-3. What would success look like in a year?
+::::::::::::::::::::::::::::::::::::
 
-Each group shares one idea back to the full group.
+::::::::::::::::::::::::::::::::::::: challenge
+
+## Activity: Mapping Benefits of a CoP  
+
+Divide learners into small groups (or breakout rooms). Each group discusses:  
+
+1. What problem or friction point does open science face on your campus?  
+2. How might a CoP help address it?  
+3. What would success look like in a year?  
+
+Each group shares one idea back to the full group.  
+
+::::::::::::::::::::::::::::::::::::
 
 ::: testimonial
 
