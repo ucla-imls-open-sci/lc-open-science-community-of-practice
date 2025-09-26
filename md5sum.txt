@@ -9,6 +9,6 @@
 "episodes/programs-and-engagement-strategies.md" "49a9481ed00722e2ee1a880ef8286b96" "site/built/programs-and-engagement-strategies.md" "2025-09-26"
 "episodes/assessing-engagement.md" "920d6bae265f39bf4e6be37deb24dc42" "site/built/assessing-engagement.md" "2025-09-26"
 "instructors/instructor-notes.md" "cae72b6712578d74a49fea7513099f8c" "site/built/instructor-notes.md" "2023-03-16"
-"learners/reference.md" "44d2fc248a675030cd11943e87a2dfc0" "site/built/reference.md" "2025-04-22"
+"learners/reference.md" "5adc8e6ef60fa160b8bbb90c799f6a18" "site/built/reference.md" "2025-09-26"
 "learners/setup.md" "c913b4b7865f631dafdebb0ed0bddec9" "site/built/setup.md" "2025-04-22"
 "profiles/learner-profiles.md" "60b93493cf1da06dfd63255d73854461" "site/built/learner-profiles.md" "2022-04-22"
