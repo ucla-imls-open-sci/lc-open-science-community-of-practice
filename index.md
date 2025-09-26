@@ -2,9 +2,9 @@
 site: sandpaper::sandpaper_site
 ---
 
-Welcome to the lesson **Open Science Community of Practice**.
+Welcome to the lesson **Building an Open Science Community of Practice**.  
 
-This lesson provides strategies, templates, and exercises for librarians and research staff to build open science communities. These communities foster inclusive researcher engagement, co-creation, and skill-building while advancing institutional open science goals.
+This lesson offers strategies, templates, and exercises for librarians and research staff who want to create or strengthen open science communities. These communities foster inclusive engagement, shared learning, and skill-building while supporting institutional goals for open science.  
 
 By the end of the session, learners will leave with:
 
@@ -12,13 +12,27 @@ By the end of the session, learners will leave with:
 * A list of local needs, potential stakeholders, and possible formats
 * At least one next step they can take at their institution
 
+::::::::::::::::::::::::::::::::::::: objectives
+
+### Learning Objectives  
+
+By the end of this lesson, you will be able to:  
+
+- Identify institutional needs and stakeholders for an open science community of practice  
+- Plan initial formats and engagement strategies for community programming  
+- Apply methods to assess engagement and adapt programs over time  
+- Draft a plan with concrete next steps for building or enhancing a community of practice at your institution  
+
+::::::::::::::::::::::::::::::::::::
+
+
 ::::::::::::::::::::::::::::::::::::: prereq
 
 ### Prerequisites  
 
-- Familiarity with the concept of **open science** (basic understanding of principles such as openness, sharing, and collaboration)  
-- Interest in community building or professional development in an academic or research setting  
-- Experience attending workshops, discussion groups, or professional meetings (helpful but not required)  
-- No prior technical skills are needed  
+- Basic understanding of **open science** principles (openness, sharing, collaboration)  
+- Interest in community building or professional development in academic or research settings  
+- Helpful but not required: experience with workshops, discussion groups, or professional communities  
+- No technical skills required  
 
 ::::::::::::::::::::::::::::::::::::
