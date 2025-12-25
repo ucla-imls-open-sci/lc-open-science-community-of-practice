@@ -36,3 +36,11 @@ By the end of this lesson, you will be able to:
 - No technical skills required  
 
 ::::::::::::::::::::::::::::::::::::
+
+::::::: callout
+### Acknowledgement of Support
+This project was made possible in part by the **Institute of Museum and Library Services** (Grant [RE-252335-OLS-22](https://www.imls.gov/grants/awarded/re-252335-ols-22)). 
+ 
+The views, findings, conclusions or recommendations expressed in this lesson do not necessarily represent those of the Institute of Museum and Library Services.
+::::::
+
