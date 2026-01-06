@@ -1,18 +1,17 @@
 cff-version: 1.2.0
-title: Building an Open Science Community of Practice
-message: >-
-  Please cite this lesson using the information in this file
-  when you refer to it in publications, and/or if you
-  re-use, adapt, or expand on the content in your own
-  training material.
+message: "If you use this lesson, please cite it as below."
 type: dataset
+title: "Building an Open Science Community of Practice"
 authors:
-  - given-names: Camille
-    family-names: Thomas
-    orcid: https://orcid.org/0000-0002-0363-0126
-abstract: >-
-  This lesson supports librarians and research support staff in designing and launching
-  Open Science Communities of Practice (CoPs) at their institutions. It introduces core concepts,
-  helps participants identify local needs and stakeholders, and provides guidance on taking
-  first steps toward building inclusive, peer-driven communities that foster open science practices.
-  By the end
+  - family-names: Thomas
+    given-names: Camille
+abstract: "This lesson explores the principles and practices of building and sustaining an open science community of practice within a library or institutional context."
+keywords:
+  - community
+  - open science
+  - community of practice
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2026-01-06
+repository-code: "https://github.com/ucla-imls-open-sci/lc-open-science-community-of-practice"
+url: "https://ucla-imls-open-sci.info/lc-open-science-community-of-practice/"
